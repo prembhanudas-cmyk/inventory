@@ -1,4 +1,4 @@
-   let editRow = null;
+let editRow = null;
 
 function addItem() {
     let name = document.getElementById("itemName").value;
